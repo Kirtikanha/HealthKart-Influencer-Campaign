@@ -18,7 +18,7 @@ This is an open-source interactive dashboard to monitor the performance of influ
 ```
 healthkart_influencer_dashboard/
 │
-├── app.py                  # Streamlit dashboard code
+├── Healthcart.py                  # Streamlit dashboard code
 ├── requirements.txt        # Python dependencies
 └── README.md               # This file
 ```
